@@ -4,7 +4,7 @@ export default class MyApp extends Component {
     render() {
         return (
             <div>
-               Welcome to React sample demo 
+               Welcome to React sample demo  de
             </div>
         );
     }
