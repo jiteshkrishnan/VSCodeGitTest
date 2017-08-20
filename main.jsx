@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
-import main from './main.jsx'
 
-export default class MyApp extends Component {
+export default class main extends Component {
     render() {
         return (
             <div>
-               <main/>
+                Welcome to React app  
             </div>
         );
     }
